@@ -1,0 +1,10 @@
+D:\Loc - C#\Win4\Win4\bin\Debug\Win4.exe.config
+D:\Loc - C#\Win4\Win4\bin\Debug\Win4.exe
+D:\Loc - C#\Win4\Win4\bin\Debug\Win4.pdb
+D:\Loc - C#\Win4\Win4\obj\Debug\Win4.csproj.AssemblyReference.cache
+D:\Loc - C#\Win4\Win4\obj\Debug\Win4.Form1.resources
+D:\Loc - C#\Win4\Win4\obj\Debug\Win4.Properties.Resources.resources
+D:\Loc - C#\Win4\Win4\obj\Debug\Win4.csproj.GenerateResource.cache
+D:\Loc - C#\Win4\Win4\obj\Debug\Win4.csproj.CoreCompileInputs.cache
+D:\Loc - C#\Win4\Win4\obj\Debug\Win4.exe
+D:\Loc - C#\Win4\Win4\obj\Debug\Win4.pdb
