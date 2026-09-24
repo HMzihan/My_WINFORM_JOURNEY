@@ -1,0 +1,10 @@
+D:\Loc - C#\Liat_Box_Control\Liat_Box_Control\bin\Debug\Liat_Box_Control.exe.config
+D:\Loc - C#\Liat_Box_Control\Liat_Box_Control\bin\Debug\Liat_Box_Control.exe
+D:\Loc - C#\Liat_Box_Control\Liat_Box_Control\bin\Debug\Liat_Box_Control.pdb
+D:\Loc - C#\Liat_Box_Control\Liat_Box_Control\obj\Debug\Liat_Box_Control.csproj.AssemblyReference.cache
+D:\Loc - C#\Liat_Box_Control\Liat_Box_Control\obj\Debug\Liat_Box_Control.Form1.resources
+D:\Loc - C#\Liat_Box_Control\Liat_Box_Control\obj\Debug\Liat_Box_Control.Properties.Resources.resources
+D:\Loc - C#\Liat_Box_Control\Liat_Box_Control\obj\Debug\Liat_Box_Control.csproj.GenerateResource.cache
+D:\Loc - C#\Liat_Box_Control\Liat_Box_Control\obj\Debug\Liat_Box_Control.csproj.CoreCompileInputs.cache
+D:\Loc - C#\Liat_Box_Control\Liat_Box_Control\obj\Debug\Liat_Box_Control.exe
+D:\Loc - C#\Liat_Box_Control\Liat_Box_Control\obj\Debug\Liat_Box_Control.pdb
