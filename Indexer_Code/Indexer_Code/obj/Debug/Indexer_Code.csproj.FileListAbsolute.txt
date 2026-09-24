@@ -1,0 +1,7 @@
+D:\Loc - C#\Indexer_Code\Indexer_Code\bin\Debug\Indexer_Code.exe.config
+D:\Loc - C#\Indexer_Code\Indexer_Code\bin\Debug\Indexer_Code.exe
+D:\Loc - C#\Indexer_Code\Indexer_Code\bin\Debug\Indexer_Code.pdb
+D:\Loc - C#\Indexer_Code\Indexer_Code\obj\Debug\Indexer_Code.csproj.AssemblyReference.cache
+D:\Loc - C#\Indexer_Code\Indexer_Code\obj\Debug\Indexer_Code.csproj.CoreCompileInputs.cache
+D:\Loc - C#\Indexer_Code\Indexer_Code\obj\Debug\Indexer_Code.exe
+D:\Loc - C#\Indexer_Code\Indexer_Code\obj\Debug\Indexer_Code.pdb
